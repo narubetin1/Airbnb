@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+wordcloud
+matplotlib
+numpy
+pymongo
+pydeck
+duckdb
+geopy
+scikit-learn
+xgboost
